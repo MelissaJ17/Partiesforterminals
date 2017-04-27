@@ -1,0 +1,25 @@
+body {
+    margin: 0 0 0 0;
+    background: cornflowerblue;
+}
+
+main {
+    background: lightpink; 
+    background-image: url(http://r.ddmcdn.com/s_f/o_1/cx_633/cy_0/cw_1725/ch_1725/w_720/APL/uploads/2014/11/too-cute-doggone-it-video-playlist.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto; 
+    height: 400px;
+
+}
+
+section {
+    width: 300px;
+    padding-left: 50px;
+    padding-top: 250px;
+    padding-right: 750px;
+    margin: 0 auto;
+    color: darkblue;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
