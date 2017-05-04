@@ -1,0 +1,40 @@
+body {
+    background: darkslategrey
+}
+
+.profile-image {
+  text-align: center;
+}
+.profile-image img {
+     width: 200px;
+     border-radius:50%
+}
+.profile-details{
+    text-align: center;
+}
+
+.social-media-list{
+    list-style: none;
+    padding-left: 0;
+   text-align: center; 
+}
+
+.social-media-list li{
+display: inline-block;
+margin: 0 10px;
+
+}
+
+.verticalalign{
+    position: relative;
+    top: 50%;
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.name {
+    font-family: 'Times New Roman', Times, serif
+}
